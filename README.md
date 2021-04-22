@@ -6,4 +6,4 @@ run 'npm install express --save' on terminal to install express
 run 'npm init' on terminal to create json files
 run 'npm install nodemon' to create a route'
 run 'node index' to start application
-open the browser and type 'localhost:5000'
+open postman and GET 'http://localhost:5000/api/users'
